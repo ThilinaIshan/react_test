@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
+// Added a comment to demonstrate a commit and push to GitHub
+
 function App() {
   return (
     <div className="App">
